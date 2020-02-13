@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity Lifecycle Demo</string>
+    <string name="choose_btn">Choose</string>
+    <string name="order_fruit">Order</string>
+    <string-array name="FruitItem">
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+        <item>Grapes</item>
+        <item>Pineapple</item>
+        <item>Watermelon</item>
+    </string-array>
+</resources>
