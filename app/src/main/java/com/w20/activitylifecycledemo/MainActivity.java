@@ -11,6 +11,10 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * Activity Lifecycle Demo
+     * */
+
     public static final String TAG = "ActivityLifecycle";
 
     Spinner spinner;
